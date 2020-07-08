@@ -1,0 +1,1 @@
+const soultion = 'https://kodaktor.ru/func_b3903'

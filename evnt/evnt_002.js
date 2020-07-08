@@ -1,0 +1,1 @@
+const result = 'https://kodaktor.ru/evnt_3086c'

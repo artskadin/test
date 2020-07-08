@@ -1,0 +1,1 @@
+const result = 'https://kodaktor.ru/func_76b96'
