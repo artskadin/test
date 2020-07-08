@@ -1,6 +1,5 @@
 node_modules/
 public/
-/dist
 yarn.lock
 
 # local env files
